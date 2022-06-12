@@ -1,0 +1,46 @@
+/* Write your CSS here! */
+body {
+    background-color: grey;
+}
+
+img {
+    width: 100%;
+}
+
+#mainHeading {
+    padding: 0%;
+    color: red;
+
+
+}
+
+
+div {
+    background-color: rgb(214, 237, 196);
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.funParagraph {
+    color: green;
+}
+
+p {
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.headings {
+    text-align: left;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-left: 100px;
+}
